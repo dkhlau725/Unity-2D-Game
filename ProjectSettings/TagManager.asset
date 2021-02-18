@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fighter
+  - spawn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Blocking
+  - Actor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 184423289
+    locked: 0
+  - name: Interactable
+    uniqueID: 3568923101
+    locked: 0
+  - name: Wall
+    uniqueID: 2422476181
+    locked: 0
+  - name: Actor
+    uniqueID: 3904786703
+    locked: 0
+  - name: Weapon
+    uniqueID: 389344391
+    locked: 0
+  - name: Projectile
+    uniqueID: 527741797
+    locked: 0
